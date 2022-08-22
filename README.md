@@ -1,4 +1,4 @@
-PingByPass Created By Matsaki
+PingBypass Created By Matsaki
 
 Utilisation :
 
